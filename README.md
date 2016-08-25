@@ -1,4 +1,4 @@
-# Web-Data-Automation-Testing
+# Web-Data-Automated-Testing
 
 This project demonstrates data/web testing automation via Selenium and BeautifulSoup. 
 
